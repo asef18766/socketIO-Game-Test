@@ -1,0 +1,6 @@
+[submodule "socketIO_BE"]
+	path = socketIO_BE
+	url = https://github.com/asef18766/socketIO_BE.git
+[submodule "unity_socket_io"]
+	path = unity_socket_io
+	url = https://github.com/asef18766/unity_socket_io.git
